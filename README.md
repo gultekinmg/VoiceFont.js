@@ -14,6 +14,6 @@ imagine when u say "Don`t do that" people hears you like drums playing at backgr
 
 Beside, it is too easy to create a new voice instrument charachter just implementing a few phonetics.
 
-AND, YES You can TALK diffent langages like a piece of cake implenting their phonetics also. 
+AND, YES You can TALK diffent langUages like a piece of cake impleMEnting their phonetics also. 
 
 NO LIMITS....
