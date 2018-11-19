@@ -5,6 +5,17 @@ it is obvious that how sound fonts produces polyphonic, fast and accurate smooth
 
 WHY LIMIT MUSIC WITH SCORES.?
 
+typical VoiceFont.json
+if (typeof(VIDI) === 'undefined') var VIDI = {};
+if (typeof(VIDI.Voicefont) === 'undefined') VIDI.Soundfont = {};
+VIDI.Soundfont.US_Female = {
+  "AA-A": "data:audio/ogg;base64,MQ==",
+  "AA-Bb0": "data:audio/ogg;base64,MQ==",
+  "B-B0": "data:audio/ogg;base64,MQ==",
+  "AE-C1": "data:audio/ogg;base64,MQ==",
+  "J-Db1": "data:audio/ogg;base64,MQ==",
+}
+
 After now people shall talk like muzik at wide range of effects. 
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 
