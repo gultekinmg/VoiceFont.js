@@ -3,7 +3,7 @@
 Same method soundfont processing except using phonetics instead scores. 
 it is obvious that how sound fonts produces polyphonic, fast and accurate smooth flooding harmonic sounds. 
 
-WHY LIMIT MUSIC WITH SCORES.?
+## WHY LIMIT MUSIC WITH SCORES.?
 
 typical VoiceFont.json
 <code>
@@ -17,6 +17,7 @@ VIDI.Soundfont.US_Female = {
   "J-Db1": "data:audio/ogg;base64,MQ==",
 }
 </code>
+### 
 After now people shall talk like muzik at wide range of effects. 
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 
