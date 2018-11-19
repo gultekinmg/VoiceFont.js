@@ -1,4 +1,4 @@
-# VoiceFont.js
+# VoiceFontPlayer.js
 generous TTS method in javascript discarding cloud calls
 
 
