@@ -8,8 +8,8 @@ it is obvious that how sound fonts produces polyphonic, fast and accurate smooth
 typical VoiceFont.json
 <code>
 if (typeof(VIDI) === 'undefined') var VIDI = {};
-if (typeof(VIDI.Voicefont) === 'undefined') VIDI.Soundfont = {};
-VIDI.Soundfont.US_Female = {
+if (typeof(VIDI.Voicefont) === 'undefined') VIDI.Voicefont = {};
+VIDI.Voicefont.US_Female = {
   "AA-A": "data:audio/ogg;base64,MQ==",
   "AA-Bb0": "data:audio/ogg;base64,MQ==",
   "B-B0": "data:audio/ogg;base64,MQ==",
