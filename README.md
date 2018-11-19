@@ -1,5 +1,5 @@
 # VoiceFont.js
-generous TTS method in javascript discards cloud calls
+generous TTS method in javascript discarding cloud calls
 
 
 Same method soundfont process except using phonetics instead scores. 
