@@ -11,6 +11,7 @@ WHY LIMIT MUSIC WITH SCORES.?
 
 After now people shall talk like muzik at wide range of effects. 
 imagine when u say "Don`t do that" people hears you like drums playing at background....
+or soft as a flute spreads at space.
 
 Beside, it is too easy to create a new voice instrument charachter just implementing a few phonetics.
 
