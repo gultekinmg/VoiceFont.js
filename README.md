@@ -10,4 +10,10 @@ It is also obvious that recent TTS techics far from future development requiring
 WHY LIMIT MUSIC WITH SCORES.?
 
 After now people shall talk like muzik at wide range of effects. 
-imagine when u say "Don`t do that` people hears you like drums playing at background....
+imagine when u say "Don`t do that" people hears you like drums playing at background....
+
+Beside, it is too easy to create a new voice instrument charachter just implementing a few phonetics.
+
+AND, YES You can TALK diffent langages like a piece of cake implenting their phonetics also. 
+
+NO LIMITS....
