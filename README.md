@@ -11,8 +11,8 @@ WHY LIMIT MUSIC WITH SCORES.?
 
 After now people shall talk like muzik at wide range of effects. 
 imagine when u say "Don`t do that" people hears you like drums playing at background....
-or soft as a flute spreads at space. or music and voice togetehr, Tough scores injected phonetics requires detailed work.
-with Polyponic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
+or soft as a flute spreads at space. or music and voice together, Tough scores injected phonetics requires detailed work.
+with Polyphonic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
 
 But at easy you can record your phonetics at a simulated score.
 
