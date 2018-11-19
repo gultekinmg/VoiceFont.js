@@ -1,11 +1,7 @@
 # VoiceFontPlayer.js
-generous TTS method in javascript discarding cloud calls
 
-
-Same method soundfont process except using phonetics instead scores. 
+Same method soundfont processing except using phonetics instead scores. 
 it is obvious that how sound fonts produces polyphonic, fast and accurate smooth flooding harmonic sounds. 
-
-It is also obvious that recent TTS techics far from future development requiring huge supports, While Voice Font has widen development at easy. 
 
 WHY LIMIT MUSIC WITH SCORES.?
 
