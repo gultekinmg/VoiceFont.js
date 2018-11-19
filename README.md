@@ -11,7 +11,9 @@ WHY LIMIT MUSIC WITH SCORES.?
 
 After now people shall talk like muzik at wide range of effects. 
 imagine when u say "Don`t do that" people hears you like drums playing at background....
-or soft as a flute spreads at space.
+or soft as a flute spreads at space. or music and voice togetehr, Tough scores injected phonetics requires detailed work.
+But at easy you can record your phonetics at a simulated score.
+
 
 Beside, it is too easy to create a new voice instrument charachter just implementing a few phonetics.
 
