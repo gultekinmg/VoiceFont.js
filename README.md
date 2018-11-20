@@ -10,6 +10,7 @@ It is also obvious that recent TTS techics far from future development requiring
 WHY LIMIT MUSIC WITH SCORES.?
 
 After now people shall talk like muzik at wide range of effects. 
+![scrshot](https://surikov.github.io/webaudiofont/img/voiceWoman.jpg)
 https://gultekinmg.github.io/voicefont/
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space. or music and voice together, Tough scores injected phonetics requires detailed work.
