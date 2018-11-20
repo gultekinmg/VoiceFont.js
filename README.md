@@ -6,7 +6,8 @@ it is obvious that how sound fonts produces polyphonic, fast and accurate smooth
 ## WHY LIMIT MUSIC WITH SCORES.?
 
 typical VoiceFont.json
-<code>```javascript
+<code>
+```javascript
 if (typeof(VIDI) === 'undefined') var VIDI = {};
 if (typeof(VIDI.Voicefont) === 'undefined') VIDI.Voicefont = {};
 VIDI.Voicefont.US_Female = {
