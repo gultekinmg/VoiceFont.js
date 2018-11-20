@@ -30,7 +30,7 @@ __AND, YES You can TALK diffent langUages like a piece of cake__ impleMEnting th
 NO LIMITS....
 
 ## Team
-[![Sindre 1st](http://https://avatars3.githubusercontent.com/u/2363843?s=144)](https://github.com/gultekinmg) | 
+[![gultekinmg](https://avatars3.githubusercontent.com/u/2363843?s=144)](https://github.com/gultekinmg) | 
 [![Kevin 2nd](https://gravatar.com/avatar/48fa294e3cd41680b80d3ed6345c7b4d?s=144)](https://github.com/gultekinmg) | 
 [![Sam 3rd](https://gravatar.com/avatar/30aba8d6414326b745aa2516f5067d53?s=144)](https://github.com/gultekinmg)
 ---|---|---
