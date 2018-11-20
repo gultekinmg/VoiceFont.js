@@ -7,6 +7,7 @@ it is obvious that how sound fonts produces polyphonic, fast and accurate smooth
 
 typical VoiceFont.json
 <code>
+```javascript
 if (typeof(VIDI) === 'undefined') var VIDI = {};
 if (typeof(VIDI.Voicefont) === 'undefined') VIDI.Voicefont = {};
 VIDI.Voicefont.US_Female = {
@@ -16,6 +17,7 @@ VIDI.Voicefont.US_Female = {
   "AE-C1": "data:audio/ogg;base64,MQ==",
   "J-Db1": "data:audio/ogg;base64,MQ==",
 }
+```
 </code>
 ### 
 After now people shall talk like muzik at wide range of effects. 
