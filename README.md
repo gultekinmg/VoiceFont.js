@@ -30,6 +30,8 @@ __AND, YES You can TALK diffent langUages like a piece of cake__ impleMEnting th
 NO LIMITS....
 
 ## Team
-[![Sindre 1st](http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?s=144)](https://sindresorhus.com) | [![Kevin 2nd](https://gravatar.com/avatar/48fa294e3cd41680b80d3ed6345c7b4d?s=144)](https://github.com/kevva) | [![Sam 3rd](https://gravatar.com/avatar/30aba8d6414326b745aa2516f5067d53?s=144)](https://github.com/SamVerschueren)
+[![Sindre 1st](http://https://avatars3.githubusercontent.com/u/2363843?s=144)](https://github.com/gultekinmg) | 
+[![Kevin 2nd](https://gravatar.com/avatar/48fa294e3cd41680b80d3ed6345c7b4d?s=144)](https://github.com/gultekinmg) | 
+[![Sam 3rd](https://gravatar.com/avatar/30aba8d6414326b745aa2516f5067d53?s=144)](https://github.com/gultekinmg)
 ---|---|---
-[Sindre](https://sindresorhus.com) | [Kevin](https://github.com/kevva) | [Sam ](https://github.com/SamVerschueren)
+[Sindre](https://github.com/gultekinmg) | [Kevin](https://github.com/gultekinmg) | [Sam ](https://github.com/gultekinmg)
