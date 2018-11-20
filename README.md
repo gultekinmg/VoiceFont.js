@@ -14,6 +14,9 @@ After now people shall talk like muzik at wide range of effects.
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space.
 #### [Click! to see how could be: ](https://gultekinmg.github.io/WebRTC/voicefont/)
+<a href="https://gultekinmg.github.io/WebRTC/voicefont/">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 or music and voice together, Tough scores injected phonetics requires detailed work.
 with Polyphonic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
 
@@ -25,3 +28,8 @@ Beside, it is too easy to create a new voice instrument charachter just implemen
 __AND, YES You can TALK diffent langUages like a piece of cake__ impleMEnting their phonetics also. 
 
 NO LIMITS....
+
+## Team
+[![Sindre Sorhus](http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9?s=144)](https://sindresorhus.com) | [![Kevin Mårtensson](https://gravatar.com/avatar/48fa294e3cd41680b80d3ed6345c7b4d?s=144)](https://github.com/kevva) | [![Sam Verschueren](https://gravatar.com/avatar/30aba8d6414326b745aa2516f5067d53?s=144)](https://github.com/SamVerschueren)
+---|---|---
+[Sindre Sorhus](https://sindresorhus.com) | [Kevin Mårtensson](https://github.com/kevva) | [Sam Verschueren](https://github.com/SamVerschueren)
