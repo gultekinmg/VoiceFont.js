@@ -13,10 +13,7 @@ After now people shall talk like muzik at wide range of effects.
 ![scrshot](https://gultekinmg.github.io/images/voiceWoman.jpg)
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space.
-#### [Click! to see how could be: ](https://gultekinmg.github.io/WebRTC/voicefont/)
-<a href="https://gultekinmg.github.io/WebRTC/voicefont/">:woman: Click! to see how could be:
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+#### <a href="https://gultekinmg.github.io/WebRTC/voicefont/">:woman: Click! to see how could be:</a>
 or music and voice together, Tough scores injected phonetics requires detailed work.
 with Polyphonic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
 
