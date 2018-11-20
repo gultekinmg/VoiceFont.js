@@ -1,4 +1,4 @@
-# VoiceFontPlayer.js
+# VIDI-VoiceFontPlayer.js
 
 Same method soundfont processing except using phonetics instead scores. 
 it is obvious that how sound fonts produces polyphonic, fast and accurate smooth flooding harmonic sounds. 
