@@ -24,7 +24,7 @@ Beside, it is too easy to create a new voice instrument charachter just implemen
 
 __AND, YES You can TALK diffent langUages like a piece of cake__ impleMEnting their phonetics also. 
 
-NO LIMITS....
+NO LIMITS.... may THAT cause? __bot singers at future.__
 
 ## Team
 [![gultekinmg](https://avatars3.githubusercontent.com/u/2363843?s=144)](https://github.com/gultekinmg) | 
