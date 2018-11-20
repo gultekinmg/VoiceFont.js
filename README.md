@@ -16,8 +16,8 @@ or soft as a flute spreads at space.
 #### <a href="https://gultekinmg.github.io/WebRTC/voicefont/">:woman: Click! to see how could be:</a>
 or music and voice together, Tough scores injected phonetics requires detailed work.
 with Polyphonic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
-
-But at easy you can record your phonetics at a simulated score.
+> Ex; _instead pronouncing "A" in score A, you can do it at __Amaj, Amin, Adim,..__ combining more scores to sound a better voice.
+But at easy you can record your phonetics at a simulated score._
 
 
 Beside, it is too easy to create a new voice instrument charachter just implementing a few phonetics.
