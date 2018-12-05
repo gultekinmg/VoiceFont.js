@@ -10,7 +10,7 @@ It is also obvious that recent TTS techics far from future development requiring
 ## WHY LIMIT MUSIC WITH SCORES.? :flushed:
 
 After now people shall talk like muzik at wide range of effects. 
-![scrshot](https://gultekinmg.github.io/images/voiceWoman.jpg)
+<a href="https://gultekinmg.github.io/WebRTC/voicefont/">![scrshot](https://gultekinmg.github.io/images/voiceWoman.jpg)</a>
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space.
 #### <a href="https://gultekinmg.github.io/WebRTC/voicefont/">:woman: Click! to see how could be:</a>
