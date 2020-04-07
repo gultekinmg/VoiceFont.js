@@ -9,7 +9,7 @@ It is also obvious that recent TTS techics far from future development requiring
 
 ## WHY LIMIT MUSIC WITH SCORES.? :flushed:
 
-After now people shall talk like muzik at wide range of effects. 
+After now people shall talk like oprah at wide range of effects. 
 <a href="https://gultekinmg.github.io/GuiltyKing/WebRTC/voicefont/">![scrshot](https://gultekinmg.github.io/GuiltyKing/images/voiceWoman.jpg)</a>
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space.
