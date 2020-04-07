@@ -10,10 +10,10 @@ It is also obvious that recent TTS techics far from future development requiring
 ## WHY LIMIT MUSIC WITH SCORES.? :flushed:
 
 After now people shall talk like muzik at wide range of effects. 
-<a href="https://gultekinmg.github.io/WebRTC/voicefont/">![scrshot](https://gultekinmg.github.io/images/voiceWoman.jpg)</a>
+<a href="https://gultekinmg.github.io/GuiltyKing/WebRTC/voicefont/">![scrshot](https://gultekinmg.github.io/images/voiceWoman.jpg)</a>
 imagine when u say "Don`t do that" people hears you like drums playing at background....
 or soft as a flute spreads at space.
-#### <a href="https://gultekinmg.github.io/WebRTC/voicefont/">:woman: Click! to see how could be:</a>
+#### <a href="https://gultekinmg.github.io/GuiltyKing/WebRTC/voicefont/">:woman: Click! to see how could be:</a>
 or music and voice together, Tough scores injected phonetics requires detailed work.
 with Polyphonic sounding you can spell a charachter with background vocals and instruments together. "named Accords."
 > Ex; _instead pronouncing "A" in score A, you can do it at __Amaj, Amin, Adim,..__ combining more scores to sound a better voice.
